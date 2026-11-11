@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300" role="img" aria-labelledby="title desc">
+  <title id="title">Bruno Novais · BNQQ System Engineering</title>
+  <desc id="desc">Engenharia reversa de jogos e desenvolvimento de ferramentas Windows.</desc>
+  <defs>
+    <linearGradient id="back" x2="1" y2="1">
+      <stop stop-color="#0d1928"/>
+      <stop offset="1" stop-color="#17152e"/>
+    </linearGradient>
+    <linearGradient id="signal" x2="1" y2="1">
+      <stop stop-color="#6ff0db"/>
+      <stop offset="1" stop-color="#a395ff"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M0 26V0h26" fill="none" stroke="#a9b7e6" stroke-opacity=".10"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="918" height="298" rx="20"/></clipPath>
+  </defs>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .signal-dot { animation: pulse 3s ease-in-out infinite; }
+      @keyframes pulse { 50% { opacity: .38; } }
+    }
+  </style>
+  <rect x="1" y="1" width="918" height="298" rx="20" fill="url(#back)" stroke="#465479"/>
+  <g clip-path="url(#frame)">
+    <path d="M565 0H920V300H565Z" fill="url(#grid)"/>
+    <path d="M560 239h55l53-52h38m-84-113h37l34 33h20m60 57h42l44-44h61m-147 77h48l27 26h72" fill="none" stroke="url(#signal)" stroke-width="2" opacity=".55"/>
+    <path d="M713 101h61l28 29v67l-28 28h-61l-28-28v-67Z" fill="#132238" stroke="url(#signal)" stroke-width="2"/>
+    <path d="m718 148 13 13-13 13m25 0h23" fill="none" stroke="#6ff0db" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#8deddf">
+      <circle class="signal-dot" cx="615" cy="239" r="5"/>
+      <circle cx="659" cy="74" r="4"/>
+      <circle class="signal-dot" cx="859" cy="120" r="5"/>
+      <circle cx="848" cy="223" r="4"/>
+    </g>
+  </g>
+  <path d="M44 58h26" stroke="#73e6d8" stroke-width="2"/>
+  <g font-family="Consolas, Liberation Mono, monospace">
+    <text x="82" y="63" fill="#81e9da" font-size="15" font-weight="700" letter-spacing="2.5">BNQQ SYSTEM ENGINEERING</text>
+    <text x="46" y="252" fill="#a9b8d8" font-size="15">C++ / WIN32 / POWERSHELL / LUA</text>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="43" y="137" fill="#f0f5ff" font-size="58" font-weight="700">Bruno Novais</text>
+    <text x="46" y="179" fill="#cedaf4" font-size="25">Engenharia reversa de jogos</text>
+    <text x="46" y="213" fill="#aabbd9" font-size="21">Análise binária e ferramentas para Windows</text>
+  </g>
+</svg>

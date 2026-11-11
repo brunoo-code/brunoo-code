@@ -1,8 +1,17 @@
 <p align="center">
-  <img src="./assets/profile-banner-re.svg" width="960" alt="Bruno Novais · Engenharia reversa de jogos, C++ e ferramentas Windows">
+  <img src="./assets/bnqq-system-engineering.svg" width="920" alt="Bruno Novais · BNQQ System Engineering · Engenharia reversa de jogos e ferramentas Windows">
 </p>
 
-Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com C++ e APIs Win32, análise de formatos binários, leitura e manipulação de memória de processos e automação.
+<p align="center">
+  <a href="#projetos-em-destaque">Projetos</a> · <a href="#tecnologias">Tecnologias</a> · <a href="#contribuições">Contribuições</a>
+</p>
+
+Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com **formatos binários**, **memória de processos** e **automação**. Nos projetos abaixo, mostro o que consegui inspecionar, medir ou reproduzir.
+
+| Análise binária | Depuração de kernel | Desempenho em jogos |
+| :---: | :---: | :---: |
+| **339 entradas** verificadas no PAK original do Quake | **2.002 consultas aceitas** na bancada Hyper‑V | **6 frentes** de otimização e medição para CS2 e VALORANT |
+| [Quake PAK Inspector](https://github.com/brunoo-code/quake-pak-inspector) | [BNQQ Driver Lab](https://github.com/brunoo-code/win-kernel-telemetry/blob/main/docs/hyperv-validation.md) | [BNQQ Toolkit](https://github.com/brunoo-code/bnqq-toolkit) |
 
 ## Projetos em destaque
 
@@ -80,18 +89,17 @@ Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com 
 
 - [Save File Lab](https://github.com/brunoo-code/save-file-lab) · Comparação e edição de saves binários com validação CRC.
 
-## Tecnologias dos projetos
+## Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-20314d?style=flat-square&logo=javascript&logoColor=9ad8ff)
-![React](https://img.shields.io/badge/React-20314d?style=flat-square&logo=react&logoColor=9ad8ff)
-![Node.js](https://img.shields.io/badge/Node.js-20314d?style=flat-square&logo=nodedotjs&logoColor=9ad8ff)
-![Python](https://img.shields.io/badge/Python-2d2350?style=flat-square&logo=python&logoColor=d4bcff)
-![C++](https://img.shields.io/badge/C%2B%2B-2d2350?style=flat-square&logo=cplusplus&logoColor=d4bcff)
-![C Sharp](https://img.shields.io/badge/C%23-2d2350?style=flat-square)
-![PowerShell](https://img.shields.io/badge/PowerShell-20314d?style=flat-square)
-![Lua](https://img.shields.io/badge/Lua-2d2350?style=flat-square&logo=lua&logoColor=d4bcff)
+| Área | Ferramentas |
+| --- | --- |
+| **Sistemas e diagnóstico** | ![C++](https://img.shields.io/badge/C%2B%2B-1c4050?style=flat-square&logo=cplusplus&logoColor=a6f3e7) ![Win32](https://img.shields.io/badge/Win32-1c4050?style=flat-square) ![WDK](https://img.shields.io/badge/WDK-1c4050?style=flat-square) ![WinDbg](https://img.shields.io/badge/WinDbg-1c4050?style=flat-square) ![Hyper-V](https://img.shields.io/badge/Hyper--V-1c4050?style=flat-square) |
+| **Scripts e formatos** | ![Lua](https://img.shields.io/badge/Lua-33285e?style=flat-square&logo=lua&logoColor=d4bcff) ![PowerShell](https://img.shields.io/badge/PowerShell-33285e?style=flat-square) ![Python](https://img.shields.io/badge/Python-33285e?style=flat-square&logo=python&logoColor=d4bcff) ![C Sharp](https://img.shields.io/badge/C%23-33285e?style=flat-square) |
+| **Web em tempo real** | ![JavaScript](https://img.shields.io/badge/JavaScript-20314d?style=flat-square&logo=javascript&logoColor=9ad8ff) ![React](https://img.shields.io/badge/React-20314d?style=flat-square&logo=react&logoColor=9ad8ff) ![Node.js](https://img.shields.io/badge/Node.js-20314d?style=flat-square&logo=nodedotjs&logoColor=9ad8ff) |
 
 ## Contribuições
+
+[Ver histórico de contribuições no GitHub](https://github.com/brunoo-code#js-contribution-activity)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
