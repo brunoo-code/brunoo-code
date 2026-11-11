@@ -17,9 +17,16 @@ Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com 
   </tr>
 </table>
 
-### BNQQ Kernel Telemetry
-
-Driver WDM em **C++ x64** com cliente Win32 e um protocolo de telemetria em modo kernel. O teste no Hyper‑V registrou as cinco chamadas ao driver no depurador e confirmou a validação das requisições no cliente. [Evidências da VM](https://github.com/brunoo-code/win-kernel-telemetry/blob/main/docs/hyperv-validation.md) · [Código](https://github.com/brunoo-code/win-kernel-telemetry)
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/brunoo-code/win-kernel-telemetry/blob/main/docs/hyperv-validation.md#teste-de-carga-concorrente"><img src="./assets/bnqq-hyperv-lab.svg" width="820" alt="BNQQ Driver Lab no Hyper-V com oito conexões, duas mil consultas de carga e zero rejeições"></a>
+      <h3>BNQQ Driver Lab · Hyper‑V</h3>
+      <p>VM Windows Server 2025 x64 usada para validar o <strong>BNQQ Kernel Telemetry</strong>, um driver WDM em C++ com cliente Win32. A bancada reúne uma sessão de depuração de kernel com KD do pacote WinDbg e um teste de carga com oito conexões simultâneas.</p>
+      <a href="https://github.com/brunoo-code/win-kernel-telemetry/blob/main/docs/hyperv-validation.md#teste-de-carga-concorrente">Ver teste de carga</a> · <a href="https://github.com/brunoo-code/win-kernel-telemetry/blob/main/docs/hyperv-validation.md#depurador">Ver depuração</a> · <a href="https://github.com/brunoo-code/win-kernel-telemetry">Código</a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="250" viewBox="0 0 820 250" role="img" aria-labelledby="title desc">
+  <title id="title">BNQQ Driver Lab</title>
+  <desc id="desc">Ambiente Hyper-V para testar um driver C++ em Windows Server 2025 x64.</desc>
+  <rect x="1" y="1" width="818" height="248" rx="16" fill="#101a2a" stroke="#425678"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="30" y="36" fill="#84dfd1" font-size="14" font-weight="700" letter-spacing="2">HYPER-V / WINDOWS SERVER 2025 X64</text>
+    <text x="29" y="81" fill="#f4f7ff" font-size="39" font-weight="700">BNQQ Driver Lab</text>
+    <text x="30" y="109" fill="#bccce2" font-size="17">Bancada de validação para drivers Windows</text>
+    <rect x="30" y="135" width="760" height="86" rx="10" fill="#16233a" stroke="#465b7f"/>
+    <path d="M283 150v56m253-56v56" stroke="#465b7f"/>
+    <g fill="#9cdbff" font-size="27" font-weight="700">
+      <text x="48" y="174">8 conexões</text>
+      <text x="301" y="174">2.000 consultas</text>
+      <text x="554" y="174">0 rejeições</text>
+    </g>
+    <g fill="#bccce2" font-size="15">
+      <text x="48" y="199">Clientes Win32 independentes</text>
+      <text x="301" y="199">Carga concorrente via IOCTL</text>
+      <text x="554" y="199">Contadores conferidos</text>
+    </g>
+  </g>
+</svg>
