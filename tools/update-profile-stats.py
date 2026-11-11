@@ -84,8 +84,8 @@ def svg(title, description, height, body):
 """
 
 
-def cards(repos, stars, total, latest):
-    entries = [(repos, "Repositórios públicos"), (stars, "Estrelas recebidas"), (total, "Contribuições no último ano")]
+def cards(repos, languages, total, latest):
+    entries = [(repos, "Repositórios públicos"), (languages, "Linguagens principais"), (total, "Contribuições no último ano")]
     body = ['    <text x="30" y="36" fill="#f0f5ff" font-size="22" font-weight="700">GitHub em números</text>']
     for i, (number, label) in enumerate(entries):
         x = 30 + i * 290
@@ -96,7 +96,7 @@ def cards(repos, stars, total, latest):
             f'    <text x="{x + 16}" y="134" fill="#cedaf4" font-size="16">{label}</text>',
         ])
     body.append(f'    <text x="30" y="181" fill="#aabbd9" font-size="13">Fonte: perfil público do GitHub · até {latest:%d/%m/%Y}</text>')
-    return svg("GitHub em números", f"{repos} repositórios públicos, {stars} estrelas e {total} contribuições no último ano.", 199, "\n".join(body))
+    return svg("GitHub em números", f"{repos} repositórios públicos, {languages} linguagens principais e {total} contribuições no último ano.", 199, "\n".join(body))
 
 
 def chart(counts, latest):
@@ -145,10 +145,10 @@ def main():
     latest = max(counts)
     total = sum(counts.values())
     repos = public_repositories()
-    stars = sum(repo["stargazers_count"] for repo in repos)
-    (ROOT / "assets/github-stats.svg").write_text(cards(len(repos), stars, total, latest), encoding="utf-8")
+    languages = {repo["language"] for repo in repos if repo["language"]}
+    (ROOT / "assets/github-stats.svg").write_text(cards(len(repos), len(languages), total, latest), encoding="utf-8")
     (ROOT / "assets/github-activity.svg").write_text(chart(counts, latest), encoding="utf-8")
-    print(f"{len(repos)} public repositories, {stars} stars, {total} contributions through {latest}")
+    print(f"{len(repos)} public repositories, {len(languages)} primary languages, {total} contributions through {latest}")
 
 
 if __name__ == "__main__":

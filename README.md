@@ -115,7 +115,7 @@ Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com 
 ## Contribuições
 
 <p align="center">
-  <a href="https://github.com/brunoo-code?tab=repositories"><img src="./assets/github-stats.svg" width="920" alt="Estatísticas públicas do GitHub: repositórios, estrelas recebidas e contribuições no último ano"></a>
+  <a href="https://github.com/brunoo-code?tab=repositories"><img src="./assets/github-stats.svg?v=languages" width="920" alt="Estatísticas públicas do GitHub: repositórios, linguagens principais e contribuições no último ano"></a>
   <a href="https://github.com/brunoo-code#js-contribution-activity"><img src="./assets/github-activity.svg" width="920" alt="Gráfico das contribuições públicas semanais nas últimas 16 semanas"></a>
 </p>
 
