@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="230" viewBox="0 0 820 230" role="img" aria-labelledby="title desc">
+  <title id="title">BNQQ Toolkit</title>
+  <desc id="desc">Três comandos do toolkit para Windows: audit, framebench e restore.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#10182a"/>
+      <stop offset="1" stop-color="#221937"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="818" height="228" rx="16" fill="url(#bg)" stroke="#4a4265"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="27" y="28" width="56" height="56" rx="12" fill="#202e49" stroke="#4a618b"/>
+    <path d="m43 49 8 7-8 7m13 0h11" fill="none" stroke="#9ad8ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="99" y="51" fill="#d4bcff" font-size="13" font-weight="700" letter-spacing="2">WINDOWS / POWERSHELL</text>
+    <text x="98" y="84" fill="#f4f3ff" font-size="34" font-weight="700">BNQQ Toolkit</text>
+    <text x="28" y="116" fill="#c4cde0" font-size="16">Diagnóstico e testes de desempenho para jogos</text>
+    <g stroke="#3e4865" fill="#131c30">
+      <rect x="27" y="140" width="246" height="64" rx="9"/>
+      <rect x="287" y="140" width="246" height="64" rx="9"/>
+      <rect x="547" y="140" width="246" height="64" rx="9"/>
+    </g>
+    <g fill="#9ad8ff" font-family="Consolas, monospace" font-size="18" font-weight="700">
+      <text x="43" y="166">audit</text>
+      <text x="303" y="166">framebench</text>
+      <text x="563" y="166">restore</text>
+    </g>
+    <g fill="#c4cde0" font-size="15">
+      <text x="43" y="188">Inventário do sistema</text>
+      <text x="303" y="188">Medição de frame times</text>
+      <text x="563" y="188">Restauração de ajustes</text>
+    </g>
+  </g>
+</svg>

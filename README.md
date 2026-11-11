@@ -21,11 +21,18 @@ Desenvolvo aplicações web em tempo real e ferramentas para Windows. Em engenha
       <a href="https://brunoo-code.github.io/cs2-replay-lab/example/">Abrir radar</a> · <a href="https://github.com/brunoo-code/cs2-replay-lab">Código</a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/brunoo-code/bnqq-toolkit"><img src="./assets/bnqq-toolkit-preview.svg" width="820" alt="BNQQ Toolkit: diagnóstico, medição de frame times e restauração no Windows"></a>
+      <h3>BNQQ Toolkit</h3>
+      <p>Diagnóstico de hardware e análise de frame times para jogos no Windows, com simulação e restauração de ajustes.</p>
+      <a href="https://github.com/brunoo-code/bnqq-toolkit#começar-sem-modificar-o-windows">Ver guia</a> · <a href="https://github.com/brunoo-code/bnqq-toolkit">Código</a>
+    </td>
+  </tr>
 </table>
 
 ### Mais projetos
 
-- [bnqq-toolkit](https://github.com/brunoo-code/bnqq-toolkit) · Diagnóstico de hardware e ajustes de latência no Windows.
 - [Save File Lab](https://github.com/brunoo-code/save-file-lab) · Comparação e edição de saves binários com validação CRC.
 - [Game Memory Lab](https://github.com/brunoo-code/game-memory-lab) · Busca diferencial de valores em memória com APIs Win32.
 
