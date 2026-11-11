@@ -12,10 +12,14 @@ Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com 
       <a href="https://github.com/brunoo-code/quake-pak-inspector#interface-para-windows"><img src="./assets/quake-pak-gui.png" width="820" alt="Interface do Quake PAK Inspector com arquivos alterados e comparação hexadecimal lado a lado"></a>
       <h3>Quake PAK Inspector</h3>
       <p>Inspetor de arquivos binários em <strong>C++20 e Win32</strong>. Navegue pelos recursos do Quake, compare dois pacotes em hexadecimal e confira qual mod sobrescreve cada arquivo pela CLI. Validado com 339 entradas do Quake 1.06 shareware.</p>
-      <a href="https://github.com/brunoo-code/quake-pak-inspector/releases/latest">Baixar demo</a> · <a href="https://github.com/brunoo-code/quake-pak-inspector">Código</a>
+      <a href="https://github.com/brunoo-code/quake-pak-inspector/releases/latest">Baixar demo</a> · <a href="https://github.com/brunoo-code/quake-pak-inspector#hub-de-mods-em-c-e-lua">Hub de mods em Lua</a> · <a href="https://github.com/brunoo-code/quake-pak-inspector">Código</a>
     </td>
   </tr>
 </table>
+
+### BNQQ Kernel Telemetry
+
+Driver WDM em **C++ x64** com cliente Win32 e um protocolo de telemetria em modo kernel. O teste no Hyper‑V registrou as cinco chamadas ao driver no depurador e confirmou a validação das requisições no cliente. [Evidências da VM](https://github.com/brunoo-code/win-kernel-telemetry/blob/main/docs/hyperv-validation.md) · [Código](https://github.com/brunoo-code/win-kernel-telemetry)
 
 <table>
   <tr>
@@ -35,15 +39,15 @@ Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com 
 <table>
   <tr>
     <td valign="top">
-      <a href="https://github.com/brunoo-code/bnqq-toolkit"><img src="./assets/bnqq-toolkit-game-profiles.svg" width="820" alt="BNQQ Toolkit — Start Competitivo, FrameBench e perfis gráficos para CS2 e VALORANT"></a>
+      <a href="https://github.com/brunoo-code/bnqq-toolkit"><img src="./assets/bnqq-competitive-six.svg" width="820" alt="BNQQ Toolkit, otimização competitiva em seis frentes para CS2 e VALORANT"></a>
       <h3>BNQQ Toolkit</h3>
-      <p>Prepare o Windows para partidas de <strong>CS2 e VALORANT</strong>. O BNQQ analisa o PC, mostra quais ajustes pode aplicar e ajuda a medir o impacto no seu hardware.</p>
+      <p><strong>Otimizador avançado para quem leva CS2 e VALORANT competitivo a sério.</strong> O BNQQ atua em seis frentes do PC para reduzir a interferência de tarefas em segundo plano e buscar quadros mais consistentes. Foi feito para jogadores que querem investigar stutter e input lag e medir o efeito dos ajustes no próprio setup.</p>
       <ul>
-        <li><strong>Start Competitivo.</strong> Abre o jogo pelo Steam ou Riot Client, preserva os apps que você escolher e ajusta a prioridade dos apps selecionados quando eles disputam CPU. O modo de sessão pode limitar o upload de apps de sincronização.</li>
-        <li><strong>FrameBench com PresentMon.</strong> Compare rodadas antes e depois usando 1% e 0,1% lows, p99 e p99,9 de tempo de quadro. Assim dá para conferir se os quadros mais lentos melhoraram.</li>
-        <li><strong>Perfis gráficos por jogo.</strong> Configure limites de FPS separados para menu e partida no CS2 e ajuste as preferências gráficas locais do VALORANT.</li>
+        <li><strong>CPU e aplicativos.</strong> O Start Competitivo prepara a sessão, preserva os apps escolhidos e ajusta a prioridade dos processos selecionados conforme a atividade.</li>
+        <li><strong>Rede e gráficos.</strong> Limite o upload de apps de sincronização, configure limites de FPS para menu e partida no CS2 e ajuste preferências gráficas locais do VALORANT.</li>
+        <li><strong>Diagnóstico e medição.</strong> Consulte hardware e drivers e compare rodadas com o FrameBench e o PresentMon usando 1% e 0,1% lows e p99 de tempo de quadro. Para confirmar input lag de ponta a ponta, use uma medição específica de mouse até tela.</li>
       </ul>
-      <a href="https://github.com/brunoo-code/bnqq-toolkit/blob/main/docs/COMPETITIVE-START.md#menu-29-start-competitivo">Ver Start Competitivo</a> · <a href="https://github.com/brunoo-code/bnqq-toolkit#medir-antes-de-concluir">Como medir</a> · <a href="https://github.com/brunoo-code/bnqq-toolkit">Código</a>
+      <a href="https://github.com/brunoo-code/bnqq-toolkit">Conhecer o BNQQ Toolkit</a> · <a href="https://github.com/brunoo-code/bnqq-toolkit/blob/main/docs/COMPETITIVE-START.md#menu-29-start-competitivo">Ver Start Competitivo</a> · <a href="https://github.com/brunoo-code/bnqq-toolkit#medir-antes-de-concluir">Como medir</a>
     </td>
   </tr>
 </table>

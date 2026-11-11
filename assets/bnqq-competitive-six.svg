@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="290" viewBox="0 0 820 290" role="img" aria-labelledby="title desc">
+  <title id="title">BNQQ Toolkit</title>
+  <desc id="desc">Otimização para CS2 e VALORANT em seis frentes: CPU, aplicativos, rede, gráficos, diagnóstico e medição.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#10192b"/>
+      <stop offset="1" stop-color="#1d1834"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="818" height="288" rx="16" fill="url(#bg)" stroke="#4c5474"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="32" y="40" fill="#83dfd5" font-size="14" font-weight="700" letter-spacing="2">CS2 / VALORANT</text>
+    <text x="31" y="85" fill="#f1f5ff" font-size="43" font-weight="700">BNQQ Toolkit</text>
+    <text x="32" y="116" fill="#c5d3e9" font-size="18">Otimização avançada para partidas competitivas</text>
+    <g fill="#141f34" stroke="#46577a">
+      <rect x="32" y="145" width="244" height="53" rx="8"/>
+      <rect x="288" y="145" width="244" height="53" rx="8"/>
+      <rect x="544" y="145" width="244" height="53" rx="8"/>
+      <rect x="32" y="210" width="244" height="53" rx="8"/>
+      <rect x="288" y="210" width="244" height="53" rx="8"/>
+      <rect x="544" y="210" width="244" height="53" rx="8"/>
+    </g>
+    <g fill="#9cdbff" font-size="16" font-weight="700">
+      <text x="47" y="167">CPU</text><text x="303" y="167">Aplicativos</text><text x="559" y="167">Rede</text>
+      <text x="47" y="232">Gráficos</text><text x="303" y="232">Diagnóstico</text><text x="559" y="232">Medição</text>
+    </g>
+    <g fill="#c5d3e9" font-size="14">
+      <text x="47" y="186">Prioridade por atividade</text><text x="303" y="186">Preparação da sessão</text><text x="559" y="186">Upload por aplicativo</text>
+      <text x="47" y="251">Perfis e limites de FPS</text><text x="303" y="251">Inventário do PC e drivers</text><text x="559" y="251">FrameBench com PresentMon</text>
+    </g>
+  </g>
+</svg>
