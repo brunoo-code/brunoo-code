@@ -1,17 +1,18 @@
-# Bruno Novais
+<h1 align="center">Bruno Novais</h1>
 
-Desenvolvimento de software, aplicações web em tempo real e automação para Windows. Também estudo engenharia reversa de jogos, com foco em memória de processos, formatos binários e ferramentas Win32.
+<p align="center"><strong>Desenvolvimento de software · Engenharia reversa de jogos · Automação Windows</strong></p>
+
+Desenvolvo aplicações web em tempo real e ferramentas para Windows. Em engenharia reversa de jogos, trabalho com análise de replays de CS2, formatos binários, memória de processos e APIs Win32. Documento o que observei, como reproduzir e onde o resultado ainda tem limites.
 
 ## Projetos em destaque
 
 | Projeto | O que você encontra |
 | --- | --- |
 | [EchoLive](https://github.com/brunoo-code/EchoLive) | Salas privadas com voz, vídeo e chat. O repositório inclui demo, diagrama da arquitetura e testes automatizados. |
+| [CS2 Replay Lab](https://github.com/brunoo-code/cs2-replay-lab) | Analisa um replay real de Mirage, gera um mapa de eventos e documenta a assinatura binária e os campos identificados. |
 | [bnqq-toolkit](https://github.com/brunoo-code/bnqq-toolkit) | Ferramentas PowerShell para diagnosticar hardware e aplicar ajustes de latência no Windows. |
 | [Save File Lab](https://github.com/brunoo-code/save-file-lab) | Laboratório em C# que compara saves binários, identifica campos e recalcula o CRC ao editar uma cópia. |
 | [Game Memory Lab](https://github.com/brunoo-code/game-memory-lab) | Arena própria para estudar busca diferencial de valores e leitura de memória com APIs do Windows. |
-
-Os laboratórios de jogos incluem alvos próprios para reproduzir os experimentos e explicar como os resultados foram obtidos.
 
 ## Tecnologias dos projetos
 
