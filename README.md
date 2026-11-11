@@ -36,6 +36,17 @@ Desenvolvo aplicações web em tempo real e ferramentas para Windows. Em engenha
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/brunoo-code/quake-pak-inspector#demo"><img src="./assets/quake-pak-inspector.svg" width="820" alt="Quake PAK Inspector com 339 entradas do Quake shareware e exemplo de sobreposição de mods"></a>
+      <h3>Quake PAK Inspector</h3>
+      <p>Analisador em C++20 para os pacotes do Quake clássico. Localize recursos por offset, compare versões byte a byte e veja qual pacote prevalece quando um mod sobrescreve um arquivo. Validado com as 339 entradas do Quake 1.06 shareware.</p>
+      <a href="https://github.com/brunoo-code/quake-pak-inspector/releases/latest">Baixar demo</a> · <a href="https://github.com/brunoo-code/quake-pak-inspector">Código</a>
+    </td>
+  </tr>
+</table>
+
 ### Mais projetos
 
 - [Save File Lab](https://github.com/brunoo-code/save-file-lab) · Comparação e edição de saves binários com validação CRC.
