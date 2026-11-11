@@ -15,7 +15,7 @@ Desenvolvo aplicações web em tempo real e ferramentas para Windows. Em engenha
       <a href="https://github.com/brunoo-code/EchoLive#demo">Ver demo</a> · <a href="https://github.com/brunoo-code/EchoLive">Código</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://brunoo-code.github.io/cs2-replay-lab/example/"><img src="./assets/mirage-preview.png" width="410" alt="Radar de Mirage com pontos de eventos e filtros por round"></a>
+      <a href="https://brunoo-code.github.io/cs2-replay-lab/example/"><img src="./assets/mirage-cs2-preview.png" width="410" alt="Radar de Mirage com pontos de eventos e filtros por round"></a>
       <h3>CS2 Replay Lab</h3>
       <p>Radar interativo de Mirage gerado a partir de um replay real.</p>
       <a href="https://brunoo-code.github.io/cs2-replay-lab/example/">Abrir radar</a> · <a href="https://github.com/brunoo-code/cs2-replay-lab">Código</a>
