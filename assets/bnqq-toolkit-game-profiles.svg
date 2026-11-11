@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="230" viewBox="0 0 820 230" role="img" aria-labelledby="title desc">
   <title id="title">BNQQ Toolkit</title>
-  <desc id="desc">Otimização do Windows para CS2 e VALORANT com sessão competitiva, comparação de tempos de quadro e recuperação de ajustes.</desc>
+  <desc id="desc">Otimização do Windows para CS2 e VALORANT com sessão competitiva, comparação de tempos de quadro e perfis gráficos.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1">
       <stop stop-color="#10182a"/>
@@ -22,12 +22,12 @@
     <g fill="#9ad8ff" font-family="Consolas, monospace" font-size="18" font-weight="700">
       <text x="43" y="166">Start Competitivo</text>
       <text x="303" y="166">FrameBench</text>
-      <text x="563" y="166">Recuperação</text>
+      <text x="563" y="166">Perfis gráficos</text>
     </g>
     <g fill="#c4cde0" font-size="15">
       <text x="43" y="188">Controle de apps em jogo</text>
       <text x="303" y="188">Teste A/B com PresentMon</text>
-      <text x="563" y="188">Prévia e ajustes reversíveis</text>
+      <text x="563" y="188">Ajustes por jogo</text>
     </g>
   </g>
 </svg>
