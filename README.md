@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.svg" width="960" alt="Bruno Novais · Engenharia de software, engenharia reversa de jogos e automação Windows">
 </p>
 
-Desenvolvo aplicações web em tempo real e ferramentas para Windows. Em engenharia reversa de jogos, trabalho com análise de replays de CS2, formatos binários, memória de processos e APIs Win32. Documento o que observei, como reproduzir e onde o resultado ainda tem limites.
+Meu foco é engenharia reversa de jogos e desenvolvimento de ferramentas para Windows. Trabalho com leitura e manipulação de dados, formatos binários, memória de processos e APIs Win32. Também desenvolvo scripts e aplicações web em tempo real.
 
 ## Projetos em destaque
 
