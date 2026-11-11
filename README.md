@@ -23,10 +23,15 @@ Desenvolvo aplicações web em tempo real e ferramentas para Windows. Em engenha
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/brunoo-code/bnqq-toolkit"><img src="./assets/bnqq-toolkit-competitive.svg" width="820" alt="BNQQ Toolkit — Otimização do Windows para CS2 e Valorant"></a>
+      <a href="https://github.com/brunoo-code/bnqq-toolkit"><img src="./assets/bnqq-toolkit-match-ready.svg" width="820" alt="BNQQ Toolkit — Sessão competitiva, testes A/B e recuperação de ajustes para CS2 e Valorant"></a>
       <h3>BNQQ Toolkit</h3>
-      <p>Otimizador de Windows para CS2 e Valorant competitivo. Analisa o hardware e a configuração do PC, aplica ajustes reversíveis e compara os tempos de quadro antes e depois.</p>
-      <a href="https://github.com/brunoo-code/bnqq-toolkit/blob/main/docs/COMPETITION-SESSION.md">Ver modo competitivo</a> · <a href="https://github.com/brunoo-code/bnqq-toolkit">Código</a>
+      <p>Prepare o Windows para partidas de <strong>CS2 e VALORANT</strong>. O BNQQ analisa o PC, mostra quais ajustes pode aplicar e ajuda a medir o impacto no seu hardware.</p>
+      <ul>
+        <li><strong>Start Competitivo.</strong> Abre o jogo pelo Steam ou Riot Client, preserva os apps que você escolher e ajusta a prioridade dos apps selecionados quando eles disputam CPU. O modo de sessão pode limitar o upload de apps de sincronização.</li>
+        <li><strong>FrameBench com PresentMon.</strong> Compare rodadas antes e depois usando 1% e 0,1% lows, p99 e p99,9 de tempo de quadro. Assim dá para conferir se os quadros mais lentos melhoraram.</li>
+        <li><strong>Prévia e recuperação.</strong> Veja o plano antes de aplicar e use o registro de alterações para recuperar o estado anterior. Há também perfis gráficos locais e limites nativos de FPS para o CS2.</li>
+      </ul>
+      <a href="https://github.com/brunoo-code/bnqq-toolkit/blob/main/docs/COMPETITIVE-START.md#menu-29-start-competitivo">Ver Start Competitivo</a> · <a href="https://github.com/brunoo-code/bnqq-toolkit#medir-antes-de-concluir">Como medir</a> · <a href="https://github.com/brunoo-code/bnqq-toolkit">Código</a>
     </td>
   </tr>
 </table>
