@@ -22,6 +22,7 @@ Os laboratórios de jogos incluem alvos próprios para reproduzir os experimento
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2866B1?style=flat-square)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ## Contribuições
 
