@@ -91,11 +91,26 @@ Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com 
 
 ## Tecnologias
 
-| Área | Ferramentas |
-| --- | --- |
-| **Sistemas e diagnóstico** | ![C++](https://img.shields.io/badge/C%2B%2B-1c4050?style=flat-square&logo=cplusplus&logoColor=a6f3e7) ![Win32](https://img.shields.io/badge/Win32-1c4050?style=flat-square) ![WDK](https://img.shields.io/badge/WDK-1c4050?style=flat-square) ![WinDbg](https://img.shields.io/badge/WinDbg-1c4050?style=flat-square) ![Hyper-V](https://img.shields.io/badge/Hyper--V-1c4050?style=flat-square) |
-| **Scripts e formatos** | ![Lua](https://img.shields.io/badge/Lua-33285e?style=flat-square&logo=lua&logoColor=d4bcff) ![PowerShell](https://img.shields.io/badge/PowerShell-33285e?style=flat-square) ![Python](https://img.shields.io/badge/Python-33285e?style=flat-square&logo=python&logoColor=d4bcff) ![C Sharp](https://img.shields.io/badge/C%23-33285e?style=flat-square) |
-| **Web em tempo real** | ![JavaScript](https://img.shields.io/badge/JavaScript-20314d?style=flat-square&logo=javascript&logoColor=9ad8ff) ![React](https://img.shields.io/badge/React-20314d?style=flat-square&logo=react&logoColor=9ad8ff) ![Node.js](https://img.shields.io/badge/Node.js-20314d?style=flat-square&logo=nodedotjs&logoColor=9ad8ff) |
+**Sistemas e diagnóstico**
+
+![C++](https://img.shields.io/badge/C%2B%2B-1764BA?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Win32](https://img.shields.io/badge/Win32-007E8A?style=for-the-badge)
+![WDK](https://img.shields.io/badge/WDK-2753B9?style=for-the-badge)
+![WinDbg](https://img.shields.io/badge/WinDbg-643CCB?style=for-the-badge)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-007A5B?style=for-the-badge)
+
+**Scripts e formatos**
+
+![Lua](https://img.shields.io/badge/Lua-5543CE?style=for-the-badge&logo=lua&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-1666BA?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-116E94?style=for-the-badge&logo=python&logoColor=FFD447)
+![C Sharp](https://img.shields.io/badge/C%23-872EAA?style=for-the-badge)
+
+**Web em tempo real**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-835800?style=for-the-badge&logo=javascript&logoColor=FFE35B)
+![React](https://img.shields.io/badge/React-006F8C?style=for-the-badge&logo=react&logoColor=B1F3FF)
+![Node.js](https://img.shields.io/badge/Node.js-23783A?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## Contribuições
 
