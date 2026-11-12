@@ -58,7 +58,7 @@ Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com 
       <a href="https://github.com/brunoo-code/bnqq-toolkit"><img src="./assets/bnqq-competitive-six.svg" width="820" alt="BNQQ Toolkit, otimização competitiva em seis frentes para CS2 e VALORANT"></a>
       <h3>BNQQ Toolkit</h3>
       <p><strong>Otimizador avançado para quem leva CS2 e VALORANT competitivo a sério.</strong> O BNQQ atua em seis frentes do PC para reduzir a interferência de tarefas em segundo plano e buscar quadros mais consistentes. Foi feito para jogadores que querem investigar stutter e input lag e medir o efeito dos ajustes no próprio setup.</p>
-      <p><strong>Optimizer em uma etapa.</strong> A opção O aplica o plano Alto desempenho quando disponível e ajusta a atividade em segundo plano do Edge e do Chrome. O painel mostra os resultados e indica como restaurar as alterações.</p>
+      <p><strong>Optimizer em uma etapa.</strong> A opção 0 aplica o plano Alto desempenho quando disponível, reduz a atividade dos navegadores em segundo plano, remove apps opcionais como Copilot e executa a manutenção do disco pelo Windows.</p>
       <ul>
         <li><strong>CPU e aplicativos.</strong> O Start Competitivo prepara a sessão, preserva os apps escolhidos e ajusta a prioridade dos processos selecionados conforme a atividade.</li>
         <li><strong>Rede e gráficos.</strong> Limite o upload de apps de sincronização, configure limites de FPS para menu e partida no CS2 e ajuste preferências gráficas locais do VALORANT.</li>
