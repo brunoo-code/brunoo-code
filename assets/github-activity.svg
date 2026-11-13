@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="294" viewBox="0 0 920 294" role="img" aria-labelledby="title desc">
   <title id="title">Atividade no GitHub</title>
-  <desc id="desc">Contagens semanais: 26/07: 0, 02/08: 0, 09/08: 1, 16/08: 108, 23/08: 0, 30/08: 0, 06/09: 0, 13/09: 0, 20/09: 0, 27/09: 0, 04/10: 0, 11/10: 0, 18/10: 2, 25/10: 77, 01/11: 4, 08/11: 61.</desc>
+  <desc id="desc">Contagens semanais: 26/07: 0, 02/08: 0, 09/08: 1, 16/08: 108, 23/08: 0, 30/08: 0, 06/09: 0, 13/09: 0, 20/09: 0, 27/09: 0, 04/10: 0, 11/10: 0, 18/10: 2, 25/10: 77, 01/11: 4, 08/11: 108.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1928"/><stop offset="1" stop-color="#17152e"/></linearGradient>
     <linearGradient id="line"><stop stop-color="#6ff0db"/><stop offset="1" stop-color="#a395ff"/></linearGradient>
@@ -19,8 +19,8 @@
     <text x="54" y="125" fill="#aabbd9" text-anchor="end" font-size="13">90</text>
     <path d="M67 86H879" stroke="#344668"/>
     <text x="54" y="91" fill="#aabbd9" text-anchor="end" font-size="13">120</text>
-    <polygon points="67,222 67.0,222.0 121.1,222.0 175.3,220.9 229.4,99.6 283.5,222.0 337.7,222.0 391.8,222.0 445.9,222.0 500.1,222.0 554.2,222.0 608.3,222.0 662.5,222.0 716.6,219.7 770.7,134.7 824.9,217.5 879.0,152.9 879,222" fill="#6ff0db" opacity=".10"/>
-    <polyline points="67.0,222.0 121.1,222.0 175.3,220.9 229.4,99.6 283.5,222.0 337.7,222.0 391.8,222.0 445.9,222.0 500.1,222.0 554.2,222.0 608.3,222.0 662.5,222.0 716.6,219.7 770.7,134.7 824.9,217.5 879.0,152.9" fill="none" stroke="url(#line)" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="67,222 67.0,222.0 121.1,222.0 175.3,220.9 229.4,99.6 283.5,222.0 337.7,222.0 391.8,222.0 445.9,222.0 500.1,222.0 554.2,222.0 608.3,222.0 662.5,222.0 716.6,219.7 770.7,134.7 824.9,217.5 879.0,99.6 879,222" fill="#6ff0db" opacity=".10"/>
+    <polyline points="67.0,222.0 121.1,222.0 175.3,220.9 229.4,99.6 283.5,222.0 337.7,222.0 391.8,222.0 445.9,222.0 500.1,222.0 554.2,222.0 608.3,222.0 662.5,222.0 716.6,219.7 770.7,134.7 824.9,217.5 879.0,99.6" fill="none" stroke="url(#line)" stroke-width="3" stroke-linejoin="round"/>
     <circle cx="67.0" cy="222.0" r="4" fill="#a2ede3"><title>26/07/2026: 0 contribuições</title></circle>
     <text x="67.0" y="245" fill="#aabbd9" text-anchor="middle" font-size="13">26/07</text>
     <circle cx="121.1" cy="222.0" r="4" fill="#a2ede3"><title>02/08/2026: 0 contribuições</title></circle>
@@ -41,8 +41,8 @@
     <text x="716.6" y="245" fill="#aabbd9" text-anchor="middle" font-size="13">18/10</text>
     <circle cx="770.7" cy="134.7" r="4" fill="#a2ede3"><title>25/10/2026: 77 contribuições</title></circle>
     <circle cx="824.9" cy="217.5" r="4" fill="#a2ede3"><title>01/11/2026: 4 contribuições</title></circle>
-    <circle cx="879.0" cy="152.9" r="4" fill="#a2ede3"><title>08/11/2026: 61 contribuições</title></circle>
+    <circle cx="879.0" cy="99.6" r="4" fill="#a2ede3"><title>08/11/2026: 108 contribuições</title></circle>
     <text x="879.0" y="245" fill="#aabbd9" text-anchor="middle" font-size="13">08/11</text>
-    <text x="30" y="276" fill="#aabbd9" font-size="13">Fonte: calendário público do GitHub · até 12/11/2026 · semana atual parcial</text>
+    <text x="30" y="276" fill="#aabbd9" font-size="13">Fonte: calendário público do GitHub · até 13/11/2026 · semana atual parcial</text>
   </g>
 </svg>

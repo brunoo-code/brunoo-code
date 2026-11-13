@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="199" viewBox="0 0 920 199" role="img" aria-labelledby="title desc">
   <title id="title">GitHub em números</title>
-  <desc id="desc">11 repositórios públicos, 6 linguagens principais e 253 contribuições no último ano.</desc>
+  <desc id="desc">12 repositórios públicos, 6 linguagens principais e 300 contribuições no último ano.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1928"/><stop offset="1" stop-color="#17152e"/></linearGradient>
     <linearGradient id="line"><stop stop-color="#6ff0db"/><stop offset="1" stop-color="#a395ff"/></linearGradient>
@@ -9,14 +9,14 @@
   <g font-family="Segoe UI, Arial, sans-serif">
     <text x="30" y="36" fill="#f0f5ff" font-size="22" font-weight="700">GitHub em números</text>
     <rect x="30" y="56" width="280" height="100" rx="11" fill="#152239" stroke="#344668"/>
-    <text x="46" y="106" fill="#6ff0db" font-size="38" font-weight="700">11</text>
+    <text x="46" y="106" fill="#6ff0db" font-size="38" font-weight="700">12</text>
     <text x="46" y="134" fill="#cedaf4" font-size="16">Repositórios públicos</text>
     <rect x="320" y="56" width="280" height="100" rx="11" fill="#152239" stroke="#344668"/>
     <text x="336" y="106" fill="#a395ff" font-size="38" font-weight="700">6</text>
     <text x="336" y="134" fill="#cedaf4" font-size="16">Linguagens principais</text>
     <rect x="610" y="56" width="280" height="100" rx="11" fill="#152239" stroke="#344668"/>
-    <text x="626" y="106" fill="#6ff0db" font-size="38" font-weight="700">253</text>
+    <text x="626" y="106" fill="#6ff0db" font-size="38" font-weight="700">300</text>
     <text x="626" y="134" fill="#cedaf4" font-size="16">Contribuições no último ano</text>
-    <text x="30" y="181" fill="#aabbd9" font-size="13">Fonte: perfil público do GitHub · até 12/11/2026</text>
+    <text x="30" y="181" fill="#aabbd9" font-size="13">Fonte: perfil público do GitHub · até 13/11/2026</text>
   </g>
 </svg>
