@@ -39,12 +39,12 @@ Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Game Memory Lab</h3>
       <p>Busca diferencial de valores e leitura e escrita de memória de um processo de demonstração pelas APIs Win32.</p>
       <a href="https://github.com/brunoo-code/game-memory-lab">Ver projeto</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Aim Overlay Lab</h3>
       <p>Protótipo em C++20 que projeta coordenadas 3D na tela e visualiza a seleção de alvos em uma arena offline.</p>
       <a href="https://github.com/brunoo-code/aim-overlay-lab">Ver projeto</a>
@@ -73,6 +73,11 @@ Desenvolvo ferramentas de engenharia reversa para jogos e Windows. Trabalho com 
 
 <table>
   <tr>
+    <td width="33%" valign="top">
+      <h3>BNQQ Binary Lab</h3>
+      <p>Inspeção estática de executáveis PE em C++20. Mostra arquitetura, entry point, image base, seções e entropia para documentar hipóteses de análise.</p>
+      <a href="https://github.com/brunoo-code/bnqq-binary-lab">Ver projeto</a>
+    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/brunoo-code/EchoLive#demo"><img src="./assets/echolive-preview.png" width="410" alt="Sala do EchoLive com duas pessoas trocando mensagens"></a>
       <h3>EchoLive</h3>
